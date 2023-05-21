@@ -1,1 +1,0 @@
-# Streaming-Analytics-into-BigQuery-Challenge-Lab
